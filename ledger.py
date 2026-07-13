@@ -52,8 +52,8 @@ def _next_id(df: pd.DataFrame) -> int:
 def place_bets(opportunities: list[dict]) -> int:
     """
     Log a list of scanner opportunities as OPEN paper bets.
-    De-dupes: skips an opportunity already open for the same event+selection+book.
-    Returns the number of new bets added.
+    De-dupes: one bet per match maximum (highest EV), and skips matches that
+    already have an open bet. Returns the number of new bets added.
     """
     # collapse to ONE bet per (event, selection): the best available price.
     # In real life you place a single bet at the book with the highest odds.
@@ -62,20 +62,31 @@ def place_bets(opportunities: list[dict]) -> int:
         k = (o["event"], o["selection"])
         if k not in best or o["soft_odds"] > best[k]["soft_odds"]:
             best[k] = o
-    opportunities = list(best.values())
+
+    # then ONE bet per match: when several outcomes of the same match show
+    # value (e.g. home win AND draw), keep only the highest-EV one. The
+    # outcomes are mutually exclusive, so betting two of them guarantees at
+    # least one loss -- and a match flagging multiple "value" outcomes usually
+    # means the sharp line just moved (or the devig is noisy), not free money.
+    per_event: dict[str, dict] = {}
+    for o in best.values():
+        k = o["event"]
+        if k not in per_event or o["ev_pct"] > per_event[k]["ev_pct"]:
+            per_event[k] = o
+    opportunities = list(per_event.values())
 
     df = load()
-    # de-dupe against bets already open for the same event+selection (any book)
+    # de-dupe against matches that already have an open bet (any selection,
+    # any book) -- one bet per match, full stop.
     open_keys = set(
-        df.loc[df["status"] == "open", ["event", "selection"]]
-          .apply(tuple, axis=1)
+        df.loc[df["status"] == "open", "event"]
     ) if not df.empty else set()
 
     rows, next_id = [], _next_id(df)
     for o in opportunities:
         if o["stake"] < config.MIN_STAKE:
             continue
-        key = (o["event"], o["selection"])
+        key = o["event"]
         if key in open_keys:
             continue
         rows.append({
