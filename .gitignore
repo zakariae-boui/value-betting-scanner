@@ -1,0 +1,16 @@
+# API keys live here, never in the repo
+api_keys.txt
+.env
+*.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

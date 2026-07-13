@@ -1,0 +1,8 @@
+# +EV scanner dependencies
+# Install with:  pip install -r requirements.txt
+
+requests    # The Odds API client
+pandas      # ledger + stats
+
+# only needed for the web dashboard (dashboard.py / wsgi.py)
+flask

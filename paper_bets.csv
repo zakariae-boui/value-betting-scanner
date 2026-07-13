@@ -1,0 +1,239 @@
+bet_id,scanned_at,commence_time,sport,event,home_team,away_team,selection,soft_book,soft_odds,sharp_odds,true_prob,ev_pct,books_agree,stake,status,closing_odds,clv_pct,profit
+1,2026-06-06T22:00:37+00:00,2026-06-22T01:00:00Z,soccer_fifa_world_cup,New Zealand vs Egypt,New Zealand,Egypt,New Zealand,gtbets,5.35,4.23,0.2132,14.06,29,8.08,lost,5.95,-10.08,-8.08
+2,2026-06-06T22:00:39+00:00,2026-06-13T12:00:00Z,soccer_finland_veikkausliiga,Ilves Tampere vs TPS Turku,Ilves Tampere,TPS Turku,TPS Turku,betrivers,4.2,3.53,0.2655,11.5,10,8.98,lost,4.22,-0.47,-8.98
+3,2026-06-06T22:00:37+00:00,2026-06-19T19:00:00Z,soccer_fifa_world_cup,USA vs Australia,USA,Australia,Australia,unibet_nl,5.1,4.28,0.2094,6.81,11,4.15,lost,5.3,-3.77,-4.15
+4,2026-06-06T22:00:39+00:00,2026-06-12T18:45:00Z,soccer_league_of_ireland,Derry City vs Bohemians,Derry City,Bohemians,Bohemians,leovegas,2.65,2.38,0.4018,6.47,10,9.8,lost,2.49,6.43,-9.8
+5,2026-06-06T22:00:37+00:00,2026-06-25T01:00:00Z,soccer_fifa_world_cup,Czech Republic vs Mexico,Czech Republic,Mexico,Mexico,gtbets,1.95,1.76,0.5449,6.25,20,16.46,won,1.75,11.43,15.64
+6,2026-06-06T22:00:37+00:00,2026-06-23T17:00:00Z,soccer_fifa_world_cup,Portugal vs Uzbekistan,Portugal,Uzbekistan,Portugal,gtbets,1.32,1.22,0.7998,5.57,6,20.0,won,1.16,13.79,6.4
+7,2026-06-06T22:00:37+00:00,2026-06-27T21:00:00Z,soccer_fifa_world_cup,Croatia vs Ghana,Croatia,Ghana,Croatia,gtbets,1.74,1.6,0.6018,4.72,11,15.93,won,1.82,-4.4,11.79
+8,2026-06-06T22:00:37+00:00,2026-06-21T00:00:00Z,soccer_fifa_world_cup,Ecuador vs Curaçao,Ecuador,Curaçao,Ecuador,gtbets,1.27,1.19,0.8224,4.45,5,20.0,lost,1.18,7.63,-20.0
+9,2026-06-06T22:00:37+00:00,2026-06-26T19:00:00Z,soccer_fifa_world_cup,Senegal vs Iraq,Senegal,Iraq,Senegal,gtbets,1.53,1.42,0.6821,4.36,5,20.0,won,1.24,23.39,10.6
+10,2026-06-06T22:00:37+00:00,2026-06-25T01:00:00Z,soccer_fifa_world_cup,South Africa vs South Korea,South Africa,South Korea,South Korea,casumo,2.08,1.91,0.5011,4.24,18,9.8,lost,1.72,20.93,-9.8
+11,2026-06-06T22:00:37+00:00,2026-06-18T22:00:00Z,soccer_fifa_world_cup,Canada vs Qatar,Canada,Qatar,Canada,gtbets,1.38,1.29,0.7532,3.94,17,20.0,won,1.29,6.98,7.6
+12,2026-06-06T22:00:37+00:00,2026-06-14T04:00:00Z,soccer_fifa_world_cup,Australia vs Turkey,Australia,Turkey,Australia,betfair_ex_uk,5.3,4.83,0.1956,3.66,3,2.13,won,,,9.16
+13,2026-06-06T22:00:37+00:00,2026-06-28T02:00:00Z,soccer_fifa_world_cup,Algeria vs Austria,Algeria,Austria,Draw,fanduel,3.3,2.98,0.3134,3.41,15,3.71,won,2.04,61.76,8.53
+14,2026-06-06T22:00:37+00:00,2026-06-21T04:00:00Z,soccer_fifa_world_cup,Tunisia vs Japan,Tunisia,Japan,Japan,gtbets,1.88,1.75,0.5484,3.1,2,8.82,won,1.42,32.39,7.76
+15,2026-06-06T22:00:37+00:00,2026-06-13T01:00:00Z,soccer_fifa_world_cup,USA vs Paraguay,USA,Paraguay,Paraguay,betfair_ex_eu,4.3,3.99,0.2395,2.99,3,2.27,lost,,,-2.27
+16,2026-06-06T22:00:37+00:00,2026-06-16T19:00:00Z,soccer_fifa_world_cup,France vs Senegal,France,Senegal,Draw,pmu_fr,4.9,4.49,0.2089,2.37,6,1.52,lost,4.7,4.26,-1.52
+17,2026-06-06T22:00:37+00:00,2026-06-16T22:00:00Z,soccer_fifa_world_cup,Iraq vs Norway,Iraq,Norway,Norway,gtbets,1.25,1.21,0.8172,2.16,7,20.0,won,1.25,0.0,5.0
+18,2026-06-06T22:00:37+00:00,2026-06-24T19:00:00Z,soccer_fifa_world_cup,Switzerland vs Canada,Switzerland,Canada,Switzerland,smarkets,2.26,2.11,0.452,2.16,3,4.29,won,2.57,-12.06,5.41
+19,2026-06-06T22:00:37+00:00,2026-06-24T19:00:00Z,soccer_fifa_world_cup,Switzerland vs Canada,Switzerland,Canada,Canada,casumo,3.8,3.44,0.2688,2.15,10,1.92,lost,3.28,15.85,-1.92
+20,2026-06-06T22:00:37+00:00,2026-06-21T16:00:00Z,soccer_fifa_world_cup,Spain vs Saudi Arabia,Spain,Saudi Arabia,Spain,gtbets,1.13,1.09,0.9039,2.14,19,20.0,won,,,2.6
+21,2026-06-06T22:00:37+00:00,2026-06-17T20:00:00Z,soccer_fifa_world_cup,England vs Croatia,England,Croatia,Croatia,betfair_ex_uk,5.3,4.9,0.1927,2.11,3,1.22,lost,5.77,-8.15,-1.22
+22,2026-06-06T22:00:37+00:00,2026-06-19T01:00:00Z,soccer_fifa_world_cup,Mexico vs South Korea,Mexico,South Korea,Mexico,coral,1.85,1.74,0.5516,2.05,14,6.03,won,2.12,-12.74,5.13
+23,2026-06-06T22:00:37+00:00,2026-06-23T03:00:00Z,soccer_fifa_world_cup,Jordan vs Algeria,Jordan,Algeria,Algeria,gtbets,1.64,1.55,0.6221,2.02,2,7.91,won,,,5.06
+24,2026-06-07T11:28:14+00:00,2026-06-25T23:00:00Z,soccer_fifa_world_cup,Tunisia vs Netherlands,Tunisia,Netherlands,Netherlands,gtbets,1.61,1.47,0.657,5.78,4,20.0,won,1.11,45.05,12.2
+25,2026-06-07T11:28:14+00:00,2026-06-12T19:00:00Z,soccer_fifa_world_cup,Canada vs Bosnia & Herzegovina,Canada,Bosnia & Herzegovina,Bosnia & Herzegovina,smarkets,5.0,4.57,0.2072,3.6,3,2.25,lost,4.8,4.17,-2.25
+26,2026-06-07T11:28:16+00:00,2026-06-12T18:45:00Z,soccer_league_of_ireland,Galway United vs Dundalk,Galway United,Dundalk,Dundalk,betrivers,2.48,2.32,0.4125,2.3,7,3.89,won,2.39,3.77,5.76
+27,2026-06-07T11:28:14+00:00,2026-06-14T20:00:00Z,soccer_fifa_world_cup,Netherlands vs Japan,Netherlands,Japan,Japan,marathonbet,3.94,3.69,0.2594,2.22,2,1.89,lost,3.88,1.55,-1.89
+28,2026-06-08T18:27:23+00:00,2026-06-28T02:00:00Z,soccer_fifa_world_cup,Algeria vs Austria,Algeria,Austria,Austria,betonlineag,2.34,2.13,0.4471,4.63,4,8.64,lost,3.77,-37.93,-8.64
+29,2026-06-08T18:27:23+00:00,2026-06-18T19:00:00Z,soccer_fifa_world_cup,Switzerland vs Bosnia & Herzegovina,Switzerland,Bosnia & Herzegovina,Bosnia & Herzegovina,grosvenor,6.0,5.05,0.1736,4.15,14,2.07,lost,6.45,-6.98,-2.07
+30,2026-06-08T18:27:23+00:00,2026-06-28T02:00:00Z,soccer_fifa_world_cup,Jordan vs Argentina,Jordan,Argentina,Argentina,unibet_nl,1.24,1.17,0.8364,3.72,18,20.0,won,1.16,6.9,4.8
+31,2026-06-08T18:27:23+00:00,2026-06-27T21:00:00Z,soccer_fifa_world_cup,Panama vs England,Panama,England,England,leovegas,1.36,1.28,0.7606,3.44,8,20.0,won,1.16,17.24,7.2
+32,2026-06-08T18:27:23+00:00,2026-06-15T22:00:00Z,soccer_fifa_world_cup,Saudi Arabia vs Uruguay,Saudi Arabia,Uruguay,Uruguay,gtbets,1.51,1.44,0.6828,3.1,15,15.22,lost,1.5,0.67,-15.22
+33,2026-06-08T18:27:23+00:00,2026-06-14T23:00:00Z,soccer_fifa_world_cup,Ivory Coast vs Ecuador,Ivory Coast,Ecuador,Draw,coolbet,3.0,2.82,0.3431,2.92,5,3.65,lost,2.97,1.01,-3.65
+34,2026-06-08T18:27:26+00:00,2026-06-14T19:00:00Z,soccer_chile_campeonato,Union La Calera vs Universidad de Chile,Union La Calera,Universidad de Chile,Draw,unibet_se,3.3,3.02,0.3117,2.87,6,3.12,won,3.53,-6.52,7.18
+35,2026-06-08T18:27:23+00:00,2026-06-27T03:00:00Z,soccer_fifa_world_cup,Egypt vs Iran,Egypt,Iran,Egypt,casumo,2.4,2.22,0.4282,2.76,11,4.93,lost,,,-4.93
+36,2026-06-08T18:27:23+00:00,2026-06-11T19:00:00Z,soccer_fifa_world_cup,Mexico vs South Africa,Mexico,South Africa,Mexico,gtbets,1.47,1.41,0.6969,2.44,13,13.0,won,1.46,0.68,6.11
+37,2026-06-08T18:27:23+00:00,2026-06-23T00:00:00Z,soccer_fifa_world_cup,Norway vs Senegal,Norway,Senegal,Senegal,coolbet,3.6,3.26,0.2844,2.39,2,2.3,lost,,,-2.3
+38,2026-06-08T18:27:23+00:00,2026-06-27T03:00:00Z,soccer_fifa_world_cup,New Zealand vs Belgium,New Zealand,Belgium,Belgium,smarkets,1.32,1.26,0.7733,2.07,6,16.2,won,,,5.18
+39,2026-06-09T06:34:27+00:00,2026-06-14T22:00:00Z,soccer_brazil_serie_b,Botafogo vs Operario PR,Botafogo,Operario PR,Draw,casumo,3.15,2.78,0.3393,6.9,9,8.02,lost,2.91,8.25,-8.02
+40,2026-06-09T06:34:27+00:00,2026-06-09T22:00:00Z,soccer_brazil_serie_b,Ponte Preta vs Cuiabá,Ponte Preta,Cuiabá,Draw,fanduel,3.0,2.73,0.351,5.29,11,6.61,lost,,,-6.61
+41,2026-06-09T06:34:26+00:00,2026-06-25T20:00:00Z,soccer_fifa_world_cup,Ecuador vs Germany,Ecuador,Germany,Ecuador,betonlineag,5.25,4.5,0.1991,4.51,2,2.65,won,4.65,12.9,11.26
+42,2026-06-09T06:34:26+00:00,2026-06-21T22:00:00Z,soccer_fifa_world_cup,Uruguay vs Cape Verde,Uruguay,Cape Verde,Uruguay,unibet_nl,1.47,1.39,0.6974,2.52,19,13.4,lost,1.4,5.0,-13.4
+43,2026-06-09T06:34:26+00:00,2026-06-14T04:00:00Z,soccer_fifa_world_cup,Australia vs Turkey,Australia,Turkey,Turkey,betsson,1.8,1.72,0.569,2.42,16,7.56,lost,,,-7.56
+44,2026-06-09T06:34:29+00:00,2026-06-14T16:30:00Z,soccer_chile_campeonato,Deportes Concepción vs Deportes Limache,Deportes Concepción,Deportes Limache,Deportes Limache,betfair_ex_uk,2.44,2.28,0.4196,2.38,2,4.13,lost,2.73,-10.62,-4.13
+45,2026-06-09T06:34:26+00:00,2026-06-24T02:00:00Z,soccer_fifa_world_cup,Colombia vs DR Congo,Colombia,DR Congo,Colombia,unibet_nl,1.51,1.43,0.6765,2.16,17,10.57,won,,,5.39
+46,2026-06-10T09:00:10+00:00,2026-06-23T23:00:00Z,soccer_fifa_world_cup,Panama vs Croatia,Panama,Croatia,Draw,unibet_nl,4.35,3.66,0.2449,6.55,13,4.89,lost,4.75,-8.42,-4.89
+47,2026-06-10T09:00:10+00:00,2026-06-23T00:00:00Z,soccer_fifa_world_cup,Norway vs Senegal,Norway,Senegal,Norway,betfair_ex_eu,2.26,2.09,0.4558,3.01,3,5.97,won,,,7.52
+48,2026-06-10T09:00:10+00:00,2026-06-11T00:00:00Z,soccer_brazil_serie_b,Sport Recife vs Athletic Club (MG),Sport Recife,Athletic Club (MG),Athletic Club (MG),smarkets,5.6,5.03,0.1833,2.67,4,1.45,lost,,,-1.45
+49,2026-06-10T09:00:10+00:00,2026-06-15T16:00:00Z,soccer_fifa_world_cup,Spain vs Cape Verde,Spain,Cape Verde,Spain,betsson,1.12,1.08,0.9163,2.63,20,20.0,lost,1.1,1.82,-20.0
+50,2026-06-10T09:00:10+00:00,2026-06-23T20:00:00Z,soccer_fifa_world_cup,England vs Ghana,England,Ghana,England,unibet_nl,1.36,1.29,0.7543,2.58,16,17.93,lost,1.19,14.29,-17.93
+51,2026-06-10T09:00:10+00:00,2026-06-10T23:00:00Z,soccer_brazil_serie_b,Goiás vs Grêmio Novorizontino,Goiás,Grêmio Novorizontino,Draw,betfair_ex_eu,3.05,2.86,0.335,2.17,10,2.65,lost,,,-2.65
+52,2026-06-10T09:00:10+00:00,2026-06-13T22:00:00Z,soccer_fifa_world_cup,Brazil vs Morocco,Brazil,Morocco,Draw,betfair_ex_uk,4.0,3.73,0.255,2.0,6,1.67,won,3.78,5.82,5.01
+53,2026-06-11T11:30:51+00:00,2026-06-17T23:00:00Z,soccer_fifa_world_cup,Ghana vs Panama,Ghana,Panama,Panama,coolbet,3.85,3.45,0.2787,7.3,20,6.4,lost,,,-6.4
+54,2026-06-11T11:30:51+00:00,2026-06-25T20:00:00Z,soccer_fifa_world_cup,Curaçao vs Ivory Coast,Curaçao,Ivory Coast,Ivory Coast,betonlineag,1.27,1.2,0.8147,3.47,12,20.0,won,1.2,5.83,5.4
+55,2026-06-11T11:30:53+00:00,2026-06-13T12:00:00Z,soccer_finland_veikkausliiga,Ilves Tampere vs TPS Turku,Ilves Tampere,TPS Turku,Ilves Tampere,coolbet,2.0,1.88,0.5143,2.87,2,7.17,won,1.81,10.5,7.17
+56,2026-06-11T11:30:53+00:00,2026-06-12T18:45:00Z,soccer_league_of_ireland,Waterford FC vs Sligo Rovers,Waterford FC,Sligo Rovers,Waterford FC,leovegas,2.28,2.14,0.449,2.38,7,4.65,won,2.03,12.32,5.95
+57,2026-06-11T11:30:51+00:00,2026-06-22T17:00:00Z,soccer_fifa_world_cup,Argentina vs Austria,Argentina,Austria,Argentina,unibet_nl,1.71,1.61,0.598,2.27,10,7.98,won,1.45,17.93,5.67
+58,2026-06-11T11:30:53+00:00,2026-06-13T14:00:00Z,soccer_finland_veikkausliiga,VPS Vaasa vs KuPS Kuopio,VPS Vaasa,KuPS Kuopio,KuPS Kuopio,gtbets,2.28,2.15,0.4482,2.18,2,4.26,lost,2.23,2.24,-4.26
+59,2026-06-11T11:30:51+00:00,2026-06-16T01:00:00Z,soccer_fifa_world_cup,Iran vs New Zealand,Iran,New Zealand,New Zealand,betfair_ex_uk,5.1,4.73,0.2002,2.09,4,1.28,lost,,,-1.28
+60,2026-06-11T12:39:05+00:00,2026-06-19T22:00:00Z,soccer_fifa_world_cup,Scotland vs Morocco,Scotland,Morocco,Draw,betfair_ex_uk,3.6,3.2,0.2886,3.9,4,3.71,lost,3.7,-2.7,-3.71
+61,2026-06-11T12:39:05+00:00,2026-06-24T19:00:00Z,soccer_fifa_world_cup,Bosnia & Herzegovina vs Qatar,Bosnia & Herzegovina,Qatar,Bosnia & Herzegovina,betonlineag,1.65,1.56,0.6183,2.01,12,7.65,won,1.43,15.38,4.97
+62,2026-06-12T08:17:04+00:00,2026-06-18T16:00:00Z,soccer_fifa_world_cup,Czech Republic vs South Africa,Czech Republic,South Africa,Czech Republic,betanysports,1.94,1.69,0.5776,12.06,2,19.91,lost,1.91,1.57,-19.91
+63,2026-06-12T08:17:04+00:00,2026-06-25T01:00:00Z,soccer_fifa_world_cup,Czech Republic vs Mexico,Czech Republic,Mexico,Czech Republic,unibet_nl,5.0,4.31,0.2098,4.88,4,3.04,lost,4.56,9.65,-3.04
+64,2026-06-12T08:17:07+00:00,2026-06-12T19:00:00Z,soccer_league_of_ireland,Shelbourne Dublin vs Shamrock Rovers,Shelbourne Dublin,Shamrock Rovers,Draw,coolbet,3.4,3.12,0.3077,4.6,2,4.77,lost,3.11,9.32,-4.77
+65,2026-06-12T08:17:04+00:00,2026-06-26T02:00:00Z,soccer_fifa_world_cup,Turkey vs USA,Turkey,USA,Turkey,unibet_se,2.75,2.49,0.3794,4.34,15,6.18,won,3.48,-20.98,10.81
+66,2026-06-12T08:17:04+00:00,2026-06-27T00:00:00Z,soccer_fifa_world_cup,Cape Verde vs Saudi Arabia,Cape Verde,Saudi Arabia,Cape Verde,unibet_nl,2.7,2.49,0.3795,2.47,6,3.62,lost,2.79,-3.23,-3.62
+67,2026-06-12T08:17:04+00:00,2026-06-26T02:00:00Z,soccer_fifa_world_cup,Paraguay vs Australia,Paraguay,Australia,Paraguay,smarkets,2.24,2.09,0.4563,2.21,12,4.43,lost,2.63,-14.83,-4.43
+68,2026-06-13T09:57:21+00:00,2026-06-19T19:00:00Z,soccer_league_of_ireland,Bohemians vs Dundalk,Bohemians,Dundalk,Dundalk,leovegas,4.25,3.63,0.2555,8.6,10,6.55,won,4.4,-3.41,21.29
+69,2026-06-13T09:57:21+00:00,2026-06-19T18:45:00Z,soccer_league_of_ireland,Drogheda United vs Shelbourne Dublin,Drogheda United,Shelbourne Dublin,Shelbourne Dublin,leovegas,2.08,1.92,0.5021,4.44,9,10.18,lost,2.04,1.96,-10.18
+70,2026-06-13T09:57:19+00:00,2026-06-19T19:00:00Z,soccer_fifa_world_cup,USA vs Australia,USA,Australia,USA,gtbets,1.65,1.53,0.6313,4.17,17,15.89,won,1.68,-1.79,10.33
+71,2026-06-13T09:57:19+00:00,2026-06-26T02:00:00Z,soccer_fifa_world_cup,Turkey vs USA,Turkey,USA,USA,unibet_se,2.63,2.4,0.3946,3.79,10,5.75,lost,2.06,27.67,-5.75
+72,2026-06-13T09:57:19+00:00,2026-06-15T19:00:00Z,soccer_fifa_world_cup,Belgium vs Egypt,Belgium,Egypt,Belgium,gtbets,1.69,1.61,0.6088,2.89,10,10.37,lost,1.54,9.74,-10.37
+73,2026-06-13T09:57:19+00:00,2026-06-21T19:00:00Z,soccer_fifa_world_cup,Belgium vs Iran,Belgium,Iran,Belgium,onexbet,1.44,1.36,0.713,2.68,12,15.07,lost,1.43,0.7,-15.07
+74,2026-06-13T09:57:19+00:00,2026-06-24T22:00:00Z,soccer_fifa_world_cup,Scotland vs Brazil,Scotland,Brazil,Brazil,betonlineag,1.51,1.43,0.6762,2.1,7,10.21,won,1.34,12.69,5.21
+75,2026-06-14T13:33:35+00:00,2026-06-18T16:00:00Z,soccer_fifa_world_cup,Czech Republic vs South Africa,Czech Republic,South Africa,South Africa,unibet_se,5.2,4.59,0.2058,7.0,15,4.11,lost,4.67,11.35,-4.11
+76,2026-06-14T13:33:35+00:00,2026-06-22T17:00:00Z,soccer_fifa_world_cup,Argentina vs Austria,Argentina,Austria,Draw,smarkets,4.4,3.74,0.2406,5.84,3,4.24,lost,4.6,-4.35,-4.24
+77,2026-06-14T13:33:35+00:00,2026-06-27T00:00:00Z,soccer_fifa_world_cup,Cape Verde vs Saudi Arabia,Cape Verde,Saudi Arabia,Saudi Arabia,betonlineag,2.86,2.56,0.3676,5.15,16,6.83,lost,2.74,4.38,-6.83
+78,2026-06-14T13:33:36+00:00,2026-06-14T14:00:00Z,soccer_brazil_serie_b,Juventude vs Ponte Preta,Juventude,Ponte Preta,Juventude,betsson,1.5,1.41,0.696,4.41,5,19.74,won,,,9.87
+79,2026-06-14T13:33:35+00:00,2026-06-24T22:00:00Z,soccer_fifa_world_cup,Morocco vs Haiti,Morocco,Haiti,Morocco,gtbets,1.36,1.27,0.7659,4.16,17,19.74,won,1.28,6.25,7.11
+80,2026-06-14T13:33:36+00:00,2026-06-17T15:00:00Z,soccer_finland_veikkausliiga,HJK Helsinki vs FC Inter Turku,HJK Helsinki,FC Inter Turku,FC Inter Turku,unibet_nl,3.0,2.75,0.3472,4.16,9,5.13,lost,2.76,8.7,-5.13
+81,2026-06-14T13:33:35+00:00,2026-06-20T03:00:00Z,soccer_fifa_world_cup,Turkey vs Paraguay,Turkey,Paraguay,Paraguay,draftkings,4.2,3.91,0.2447,2.76,6,2.13,won,,,6.82
+82,2026-06-14T13:33:36+00:00,2026-06-14T19:00:00Z,soccer_brazil_serie_b,Athletic Club (MG) vs Goiás,Athletic Club (MG),Goiás,Goiás,matchbook,3.35,3.13,0.3066,2.7,3,2.84,lost,3.81,-12.07,-2.84
+83,2026-06-14T13:33:35+00:00,2026-06-19T22:00:00Z,soccer_fifa_world_cup,Scotland vs Morocco,Scotland,Morocco,Scotland,smarkets,5.5,5.06,0.1862,2.42,4,1.33,lost,6.04,-8.94,-1.33
+84,2026-06-14T13:33:35+00:00,2026-06-20T20:00:00Z,soccer_fifa_world_cup,Germany vs Ivory Coast,Germany,Ivory Coast,Germany,unibet_nl,1.61,1.52,0.6351,2.25,4,9.11,won,1.45,11.03,5.56
+85,2026-06-15T07:56:19+00:00,2026-06-25T23:00:00Z,soccer_fifa_world_cup,Japan vs Sweden,Japan,Sweden,Sweden,unibet_se,3.75,3.29,0.2813,5.5,12,4.95,lost,3.47,8.07,-4.95
+86,2026-06-15T07:56:19+00:00,2026-06-20T17:00:00Z,soccer_fifa_world_cup,Netherlands vs Sweden,Netherlands,Sweden,Sweden,unibet_nl,5.3,4.81,0.1958,3.8,11,2.18,lost,5.15,2.91,-2.18
+87,2026-06-15T07:56:19+00:00,2026-06-25T20:00:00Z,soccer_fifa_world_cup,Ecuador vs Germany,Ecuador,Germany,Draw,smarkets,4.1,3.62,0.2516,3.15,5,2.51,lost,4.75,-13.68,-2.51
+88,2026-06-15T07:56:21+00:00,2026-06-17T15:00:00Z,soccer_finland_veikkausliiga,Ilves Tampere vs Jaro,Ilves Tampere,Jaro,Jaro,betfair_ex_eu,4.8,4.31,0.2141,2.76,5,1.79,lost,4.95,-3.03,-1.79
+89,2026-06-16T09:07:54+00:00,2026-06-17T15:00:00Z,soccer_finland_veikkausliiga,TPS Turku vs KuPS Kuopio,TPS Turku,KuPS Kuopio,KuPS Kuopio,gtbets,1.74,1.63,0.5958,3.68,6,11.86,won,1.63,6.75,8.78
+90,2026-06-16T09:07:54+00:00,2026-06-19T18:45:00Z,soccer_league_of_ireland,St Patricks Athletic vs Sligo Rovers,St Patricks Athletic,Sligo Rovers,St Patricks Athletic,leovegas,1.33,1.26,0.7769,3.32,12,19.09,won,1.21,9.92,6.3
+91,2026-06-16T09:07:53+00:00,2026-06-27T00:00:00Z,soccer_fifa_world_cup,Uruguay vs Spain,Uruguay,Spain,Spain,fanduel,1.61,1.51,0.6389,2.86,6,11.2,won,1.69,-4.73,6.83
+92,2026-06-16T09:07:53+00:00,2026-06-17T17:00:00Z,soccer_fifa_world_cup,Portugal vs DR Congo,Portugal,DR Congo,Portugal,onexbet,1.33,1.28,0.7697,2.37,11,17.11,lost,1.31,1.53,-17.11
+93,2026-06-17T12:33:37+00:00,2026-06-28T02:00:00Z,soccer_fifa_world_cup,Algeria vs Austria,Algeria,Austria,Algeria,betonlineag,3.4,2.98,0.3136,6.63,2,6.47,lost,3.68,-7.61,-6.47
+94,2026-06-17T12:33:37+00:00,2026-06-18T19:00:00Z,soccer_fifa_world_cup,Switzerland vs Bosnia & Herzegovina,Switzerland,Bosnia & Herzegovina,Switzerland,gtbets,1.62,1.53,0.6411,3.87,17,14.6,won,1.58,2.53,9.05
+95,2026-06-17T12:33:37+00:00,2026-06-22T21:00:00Z,soccer_fifa_world_cup,France vs Iraq,France,Iraq,France,smarkets,1.13,1.08,0.9152,3.42,16,18.73,won,1.09,3.67,2.43
+96,2026-06-17T12:33:38+00:00,2026-06-23T23:00:00Z,soccer_brazil_serie_b,América Mineiro vs Criciuma,América Mineiro,Criciuma,Criciuma,unibet_se,2.65,2.45,0.3898,3.3,4,4.69,won,2.62,1.15,7.74
+97,2026-06-18T14:50:15+00:00,2026-06-23T17:00:00Z,soccer_finland_veikkausliiga,IFK Mariehamn vs HJK Helsinki,IFK Mariehamn,HJK Helsinki,HJK Helsinki,gtbets,1.42,1.32,0.7405,5.14,6,18.5,won,1.34,5.97,7.77
+98,2026-06-18T14:50:13+00:00,2026-06-19T22:00:00Z,soccer_fifa_world_cup,Scotland vs Morocco,Scotland,Morocco,Morocco,onexbet,1.81,1.71,0.5721,3.54,10,10.12,won,1.7,6.47,8.2
+99,2026-06-18T14:50:13+00:00,2026-06-27T23:30:00Z,soccer_fifa_world_cup,DR Congo vs Uzbekistan,DR Congo,Uzbekistan,Uzbekistan,coolbet,3.5,3.16,0.2936,2.78,2,2.57,lost,5.4,-35.19,-2.57
+100,2026-06-18T14:50:13+00:00,2026-06-20T00:30:00Z,soccer_fifa_world_cup,Brazil vs Haiti,Brazil,Haiti,Brazil,betsson,1.14,1.1,0.8998,2.58,11,18.5,won,1.12,1.79,2.59
+101,2026-06-18T14:50:14+00:00,2026-06-20T14:00:00Z,soccer_brazil_serie_b,Londrina vs Athletic Club (MG),Londrina,Athletic Club (MG),Londrina,matchbook,2.62,2.45,0.3896,2.07,3,2.96,won,2.59,1.16,4.8
+102,2026-06-18T17:24:22+00:00,2026-06-18T16:00:00Z,soccer_fifa_world_cup,Czech Republic vs South Africa,Czech Republic,South Africa,Draw,coolbet,5.5,4.91,0.1859,2.22,5,1.13,won,,,5.08
+103,2026-06-19T00:18:34+00:00,2026-06-19T00:00:00Z,soccer_brazil_serie_b,Sport Recife vs Atletico Goianiense,Sport Recife,Atletico Goianiense,Sport Recife,matchbook,2.4,2.0,0.478,14.72,18,18.29,lost,,,-18.29
+104,2026-06-19T00:18:37+00:00,2026-06-19T00:00:00Z,soccer_chile_campeonato,Universidad de Chile vs O'Higgins,Universidad de Chile,O'Higgins,Draw,matchbook,3.45,3.09,0.3009,3.82,5,3.56,lost,,,-3.56
+105,2026-06-19T00:18:33+00:00,2026-06-24T19:00:00Z,soccer_fifa_world_cup,Switzerland vs Canada,Switzerland,Canada,Draw,casumo,3.25,2.96,0.3154,2.5,11,2.54,lost,3.05,6.56,-2.54
+106,2026-06-20T09:43:16+00:00,2026-06-26T02:00:00Z,soccer_fifa_world_cup,Paraguay vs Australia,Paraguay,Australia,Draw,betfair_ex_eu,2.46,2.16,0.4355,7.14,35,11.3,won,2.45,0.41,16.5
+107,2026-06-20T09:43:16+00:00,2026-06-25T23:00:00Z,soccer_fifa_world_cup,Japan vs Sweden,Japan,Sweden,Japan,betfair_ex_eu,2.3,2.12,0.4497,3.42,11,6.09,lost,2.23,3.14,-6.09
+108,2026-06-20T09:43:16+00:00,2026-06-27T23:30:00Z,soccer_fifa_world_cup,Colombia vs Portugal,Colombia,Portugal,Portugal,coolbet,2.17,2.01,0.4756,3.2,2,6.33,lost,1.91,13.61,-6.33
+109,2026-06-21T05:29:08+00:00,2026-06-27T23:30:00Z,soccer_fifa_world_cup,Colombia vs Portugal,Colombia,Portugal,Draw,betfair_ex_uk,3.85,3.42,0.2699,3.93,3,3.18,won,4.09,-5.87,9.06
+110,2026-06-21T05:29:08+00:00,2026-06-21T20:00:00Z,soccer_brazil_serie_b,São Bernardo vs Juventude,São Bernardo,Juventude,Draw,matchbook,3.1,2.91,0.3292,2.04,6,2.24,lost,2.93,5.8,-2.24
+111,2026-06-21T06:00:04+00:00,2026-06-22T01:00:00Z,soccer_fifa_world_cup,New Zealand vs Egypt,New Zealand,Egypt,Draw,unibet_nl,4.35,3.97,0.2386,3.81,16,2.62,lost,3.95,10.13,-2.62
+112,2026-06-21T14:57:41+00:00,2026-06-25T23:00:00Z,soccer_fifa_world_cup,Japan vs Sweden,Japan,Sweden,Draw,betfair_ex_eu,3.55,3.26,0.2932,4.09,11,3.73,won,3.51,1.14,9.51
+113,2026-06-21T14:57:44+00:00,2026-06-22T19:00:00Z,soccer_league_of_ireland,Shamrock Rovers vs Derry City,Shamrock Rovers,Derry City,Shamrock Rovers,coolbet,1.9,1.79,0.5392,2.45,8,6.34,lost,1.93,-1.55,-6.34
+114,2026-06-21T14:57:42+00:00,2026-06-21T14:02:00Z,soccer_brazil_serie_b,Avai vs Cuiabá,Avai,Cuiabá,Avai,betfair_ex_uk,1.64,1.55,0.6238,2.31,4,8.39,won,,,5.37
+115,2026-06-21T23:45:10+00:00,2026-06-28T21:30:00Z,soccer_brazil_serie_b,Fortaleza vs Sport Recife,Fortaleza,Sport Recife,Sport Recife,unibet_nl,4.6,3.96,0.234,7.64,6,4.89,lost,4.7,-2.13,-4.89
+116,2026-06-21T23:45:10+00:00,2026-06-28T19:00:00Z,soccer_brazil_serie_b,Athletic Club (MG) vs Avai,Athletic Club (MG),Avai,Athletic Club (MG),unibet_se,2.08,1.88,0.5124,6.59,9,14.03,won,1.93,7.77,15.15
+117,2026-06-21T23:45:09+00:00,2026-06-26T19:00:00Z,soccer_fifa_world_cup,Norway vs France,Norway,France,Norway,betonlineag,4.75,4.13,0.2193,4.16,8,2.56,lost,8.25,-42.42,-2.56
+118,2026-06-21T23:45:09+00:00,2026-06-27T03:00:00Z,soccer_fifa_world_cup,Egypt vs Iran,Egypt,Iran,Draw,gtbets,3.08,2.78,0.3372,3.85,8,4.26,won,,,8.86
+119,2026-06-21T23:45:10+00:00,2026-06-28T21:30:00Z,soccer_brazil_serie_b,Fortaleza vs Sport Recife,Fortaleza,Sport Recife,Draw,unibet_nl,3.6,3.26,0.2873,3.44,3,3.04,lost,3.39,6.19,-3.04
+120,2026-06-22T08:24:54+00:00,2026-06-23T15:00:00Z,soccer_finland_veikkausliiga,VPS Vaasa vs AC Oulu,VPS Vaasa,AC Oulu,VPS Vaasa,leovegas_se,2.6,2.4,0.4002,4.06,10,5.76,won,2.02,28.71,9.22
+121,2026-06-22T08:24:52+00:00,2026-06-27T00:00:00Z,soccer_fifa_world_cup,Cape Verde vs Saudi Arabia,Cape Verde,Saudi Arabia,Draw,casumo,3.75,3.5,0.273,2.37,6,1.96,won,3.36,11.61,5.39
+122,2026-06-22T08:24:55+00:00,2026-06-22T19:00:00Z,soccer_league_of_ireland,Shamrock Rovers vs Derry City,Shamrock Rovers,Derry City,Derry City,betfair_ex_eu,5.1,4.69,0.2002,2.09,3,1.16,lost,4.42,15.38,-1.16
+123,2026-06-22T15:58:58+00:00,2026-06-28T14:00:00Z,soccer_brazil_serie_b,Juventude vs Ceará,Juventude,Ceará,Juventude,unibet_se,2.23,2.03,0.474,5.69,6,10.37,won,2.12,5.19,12.76
+124,2026-06-22T15:58:57+00:00,2026-06-25T01:00:00Z,soccer_fifa_world_cup,South Africa vs South Korea,South Africa,South Korea,South Africa,betfair_ex_uk,6.0,5.33,0.1745,4.71,23,2.11,won,5.5,9.09,10.55
+125,2026-06-22T15:58:58+00:00,2026-06-25T23:30:00Z,soccer_brazil_serie_b,Cuiabá vs Londrina,Cuiabá,Londrina,Londrina,betfair_ex_eu,6.0,5.24,0.1722,3.35,3,1.5,lost,6.47,-7.26,-1.5
+126,2026-06-22T15:58:59+00:00,2026-06-23T15:00:00Z,soccer_finland_veikkausliiga,FC Lahti vs TPS Turku,FC Lahti,TPS Turku,FC Lahti,coolbet,1.85,1.75,0.5583,3.29,15,8.68,lost,1.81,2.21,-8.68
+127,2026-06-22T15:58:58+00:00,2026-06-23T23:00:00Z,soccer_brazil_serie_b,América Mineiro vs Criciuma,América Mineiro,Criciuma,América Mineiro,matchbook,3.25,2.98,0.3176,3.21,3,3.2,lost,3.11,4.5,-3.2
+128,2026-06-23T09:06:17+00:00,2026-06-26T18:30:00Z,soccer_league_of_ireland,Shamrock Rovers vs Galway United,Shamrock Rovers,Galway United,Shamrock Rovers,leovegas,1.54,1.42,0.6857,5.6,9,17.81,won,1.52,1.32,9.62
+129,2026-06-23T09:06:17+00:00,2026-06-26T19:00:00Z,soccer_league_of_ireland,Bohemians vs St Patricks Athletic,Bohemians,St Patricks Athletic,St Patricks Athletic,unibet_se,2.95,2.67,0.3569,5.28,9,6.03,lost,3.18,-7.23,-6.03
+130,2026-06-23T09:06:17+00:00,2026-06-23T16:00:00Z,soccer_finland_veikkausliiga,Jaro vs IF Gnistan,Jaro,IF Gnistan,Jaro,matchbook,3.8,3.52,0.2724,3.51,3,2.79,lost,3.66,3.83,-2.79
+131,2026-06-23T09:06:15+00:00,2026-06-26T19:00:00Z,soccer_fifa_world_cup,Norway vs France,Norway,France,France,betfred_uk,1.73,1.65,0.5932,2.62,13,7.99,won,1.34,29.1,5.83
+132,2026-06-23T20:09:04+00:00,2026-06-27T21:00:00Z,soccer_fifa_world_cup,Croatia vs Ghana,Croatia,Ghana,Draw,betonlineag,3.95,3.35,0.2719,7.39,3,5.78,lost,3.34,18.26,-5.78
+133,2026-06-23T20:09:04+00:00,2026-06-27T23:30:00Z,soccer_fifa_world_cup,DR Congo vs Uzbekistan,DR Congo,Uzbekistan,DR Congo,gtbets,2.02,1.85,0.5178,4.59,4,10.38,won,1.69,19.53,10.59
+134,2026-06-23T20:09:04+00:00,2026-06-23T23:00:00Z,soccer_fifa_world_cup,Panama vs Croatia,Panama,Croatia,Croatia,gtbets,1.52,1.45,0.6805,3.44,9,15.26,won,1.44,5.56,7.94
+135,2026-06-23T20:09:04+00:00,2026-06-26T19:00:00Z,soccer_fifa_world_cup,Norway vs France,Norway,France,Draw,unibet_se,4.75,4.32,0.2162,2.7,2,1.66,lost,6.26,-24.12,-1.66
+136,2026-06-23T20:09:04+00:00,2026-06-25T20:00:00Z,soccer_fifa_world_cup,Ecuador vs Germany,Ecuador,Germany,Germany,gtbets,2.0,1.9,0.5127,2.53,2,5.85,lost,1.67,19.76,-5.85
+137,2026-06-24T11:27:39+00:00,2026-06-30T23:00:00Z,soccer_brazil_serie_b,Botafogo vs Clube de Regatas Brasil,Botafogo,Clube de Regatas Brasil,Draw,betrivers,3.05,2.54,0.375,14.37,24,15.87,lost,3.16,-3.48,-15.87
+138,2026-06-24T11:27:40+00:00,2026-06-27T14:00:00Z,soccer_finland_veikkausliiga,IFK Mariehamn vs FC Inter Turku,IFK Mariehamn,FC Inter Turku,FC Inter Turku,gtbets,1.41,1.32,0.7408,4.46,11,18.11,won,1.34,5.22,7.43
+139,2026-06-24T11:27:38+00:00,2026-06-26T02:00:00Z,soccer_fifa_world_cup,Paraguay vs Australia,Paraguay,Australia,Australia,onexbet,4.33,3.86,0.2409,4.3,8,2.92,lost,4.16,4.09,-2.92
+140,2026-06-24T11:27:40+00:00,2026-06-27T18:00:00Z,soccer_finland_veikkausliiga,AC Oulu vs FC Lahti,AC Oulu,FC Lahti,AC Oulu,gtbets,2.05,1.91,0.5067,3.88,10,8.37,lost,1.97,4.06,-8.37
+141,2026-06-24T13:11:53+00:00,2026-06-25T23:30:00Z,soccer_brazil_serie_b,Cuiabá vs Londrina,Cuiabá,Londrina,Cuiabá,casumo,1.91,1.79,0.5384,2.84,4,7.09,lost,1.77,7.91,-7.09
+142,2026-06-24T17:06:46+00:00,2026-06-27T19:00:00Z,soccer_brazil_serie_b,Criciuma vs São Bernardo,Criciuma,São Bernardo,Criciuma,betfair_ex_uk,1.7,1.61,0.6011,2.18,2,7.1,won,1.67,1.8,4.97
+143,2026-06-25T08:47:51+00:00,2026-06-28T19:00:00Z,soccer_fifa_world_cup,South Africa vs Canada,South Africa,Canada,South Africa,unibet_nl,5.75,5.09,0.1846,6.13,7,2.99,lost,5.1,12.75,-2.99
+144,2026-06-25T08:47:51+00:00,2026-06-28T19:00:00Z,soccer_fifa_world_cup,South Africa vs Canada,South Africa,Canada,Draw,unibet_nl,3.85,3.54,0.2691,3.61,7,2.94,lost,3.45,11.59,-2.94
+145,2026-06-25T08:47:52+00:00,2026-06-28T21:30:00Z,soccer_brazil_serie_b,Nautico PE vs Goiás,Nautico PE,Goiás,Nautico PE,unibet_nl,1.92,1.81,0.5326,2.26,5,5.7,lost,1.91,0.52,-5.7
+146,2026-06-25T19:57:09+00:00,2026-07-05T12:00:00Z,soccer_sweden_allsvenskan,IFK Goteborg vs AIK,IFK Goteborg,AIK,IFK Goteborg,coolbet,2.55,2.24,0.4265,8.77,4,13.31,lost,,,-13.31
+147,2026-06-25T19:57:09+00:00,2026-07-06T17:00:00Z,soccer_sweden_allsvenskan,IF Brommapojkarna vs GAIS,IF Brommapojkarna,GAIS,GAIS,coolbet,2.3,2.13,0.4496,3.41,2,6.18,lost,,,-6.18
+148,2026-06-25T19:57:07+00:00,2026-06-27T00:00:00Z,soccer_fifa_world_cup,Uruguay vs Spain,Uruguay,Spain,Draw,smarkets,4.4,4.02,0.2349,3.35,7,2.32,lost,3.6,22.22,-2.32
+149,2026-06-25T19:57:09+00:00,2026-07-06T17:00:00Z,soccer_sweden_allsvenskan,BK Hacken vs Djurgardens IF,BK Hacken,Djurgardens IF,Djurgardens IF,coolbet,2.75,2.54,0.3737,2.77,2,3.72,won,,,6.51
+150,2026-06-25T19:57:08+00:00,2026-06-28T19:00:00Z,soccer_brazil_serie_b,Atletico Goianiense vs Ponte Preta,Atletico Goianiense,Ponte Preta,Atletico Goianiense,unibet_se,1.49,1.41,0.6894,2.72,4,13.05,won,1.39,7.19,6.39
+151,2026-06-26T07:57:08+00:00,2026-07-02T00:00:00Z,soccer_fifa_world_cup,USA vs Bosnia & Herzegovina,USA,Bosnia & Herzegovina,USA,gtbets,1.57,1.49,0.6589,3.45,7,14.42,won,,,8.22
+152,2026-06-26T07:57:08+00:00,2026-07-18T00:30:00Z,soccer_brazil_campeonato,Fluminense vs Bragantino-SP,Fluminense,Bragantino-SP,Bragantino-SP,livescorebet,4.5,4.08,0.2293,3.19,10,2.17,open,,,
+153,2026-06-26T07:57:08+00:00,2026-07-23T00:30:00Z,soccer_brazil_campeonato,Internacional vs Cruzeiro,Internacional,Cruzeiro,Draw,fanduel,3.4,3.13,0.3034,3.15,7,3.13,open,,,
+154,2026-06-26T07:57:08+00:00,2026-06-27T23:30:00Z,soccer_fifa_world_cup,Colombia vs Portugal,Colombia,Portugal,Colombia,betsson,4.45,4.12,0.2295,2.11,3,1.45,lost,3.93,13.23,-1.45
+155,2026-06-26T12:47:52+00:00,2026-06-27T16:00:00Z,soccer_finland_veikkausliiga,TPS Turku vs Jaro,TPS Turku,Jaro,Jaro,coolbet,3.5,3.17,0.2987,4.53,3,4.38,lost,3.56,-1.69,-4.38
+156,2026-06-26T12:47:51+00:00,2026-06-26T22:00:00Z,soccer_brazil_serie_b,Grêmio Novorizontino vs Vila Nova,Grêmio Novorizontino,Vila Nova,Vila Nova,matchbook,4.2,3.9,0.2436,2.3,2,1.74,lost,4.5,-6.67,-1.74
+157,2026-06-26T12:47:52+00:00,2026-06-27T14:00:00Z,soccer_finland_veikkausliiga,HJK Helsinki vs KuPS Kuopio,HJK Helsinki,KuPS Kuopio,HJK Helsinki,betfair_ex_eu,2.42,2.28,0.4216,2.02,2,3.44,lost,2.31,4.76,-3.44
+158,2026-06-27T08:07:37+00:00,2026-07-03T18:00:00Z,soccer_fifa_world_cup,Australia vs Egypt,Australia,Egypt,Australia,gtbets,3.66,3.23,0.2984,9.22,21,8.51,lost,3.8,-3.68,-8.51
+159,2026-06-27T08:07:39+00:00,2026-07-03T18:45:00Z,soccer_league_of_ireland,Drogheda United vs Bohemians,Drogheda United,Bohemians,Bohemians,leovegas,1.85,1.72,0.5617,3.91,9,11.29,won,1.83,1.09,9.6
+160,2026-06-27T08:07:37+00:00,2026-07-03T22:00:00Z,soccer_fifa_world_cup,Argentina vs Cape Verde,Argentina,Cape Verde,Argentina,betsson,1.19,1.15,0.8601,2.36,19,7.0,won,1.16,2.59,1.33
+161,2026-06-27T08:07:37+00:00,2026-06-30T01:00:00Z,soccer_fifa_world_cup,Netherlands vs Morocco,Netherlands,Morocco,Draw,onexbet,3.41,3.21,0.3,2.3,5,2.34,won,3.13,8.95,5.64
+162,2026-06-27T08:07:37+00:00,2026-06-29T17:00:00Z,soccer_fifa_world_cup,Brazil vs Japan,Brazil,Japan,Japan,betfair_ex_eu,5.7,5.23,0.1791,2.08,4,1.08,lost,5.02,13.55,-1.08
+163,2026-06-27T08:08:20+00:00,2026-06-27T11:00:00Z,soccer_finland_veikkausliiga,Ilves Tampere vs SJK Seinäjoki,Ilves Tampere,SJK Seinäjoki,SJK Seinäjoki,matchbook,3.15,2.97,0.3252,2.45,3,2.82,lost,3.08,2.27,-2.82
+164,2026-06-27T17:29:16+00:00,2026-06-27T16:00:00Z,soccer_finland_veikkausliiga,TPS Turku vs Jaro,TPS Turku,Jaro,TPS Turku,fanduel,3.0,2.5,0.3792,13.76,27,17.03,won,,,34.06
+165,2026-06-27T17:29:16+00:00,2026-06-27T16:01:00Z,soccer_finland_veikkausliiga,IF Gnistan vs VPS Vaasa,IF Gnistan,VPS Vaasa,VPS Vaasa,matchbook,4.0,3.34,0.2794,11.76,11,9.7,lost,,,-9.7
+166,2026-06-27T17:29:16+00:00,2026-06-27T16:01:00Z,soccer_finland_veikkausliiga,IF Gnistan vs VPS Vaasa,IF Gnistan,VPS Vaasa,IF Gnistan,matchbook,4.0,3.36,0.2776,11.06,8,9.12,lost,,,-9.12
+167,2026-06-27T17:29:15+00:00,2026-06-30T17:00:00Z,soccer_fifa_world_cup,Ivory Coast vs Norway,Ivory Coast,Norway,Ivory Coast,unibet_se,3.95,3.65,0.2626,3.73,10,3.13,lost,,,-3.13
+168,2026-06-27T17:29:15+00:00,2026-06-30T17:00:00Z,soccer_fifa_world_cup,Ivory Coast vs Norway,Ivory Coast,Norway,Draw,onexbet,3.78,3.52,0.2726,3.05,2,2.72,lost,,,-2.72
+169,2026-06-27T17:29:15+00:00,2026-06-30T01:00:00Z,soccer_fifa_world_cup,Netherlands vs Morocco,Netherlands,Morocco,Netherlands,coolbet,2.22,2.12,0.4604,2.2,8,4.47,lost,2.44,-9.02,-4.47
+170,2026-06-27T19:37:00+00:00,2026-07-03T19:00:00Z,soccer_league_of_ireland,Shelbourne Dublin vs Dundalk,Shelbourne Dublin,Dundalk,Dundalk,betrivers,3.1,2.74,0.3422,6.08,11,7.24,lost,3.77,-17.77,-7.24
+171,2026-06-27T19:36:59+00:00,2026-07-03T17:00:00Z,soccer_sweden_allsvenskan,IK Sirius vs Mjällby AIF,IK Sirius,Mjällby AIF,IK Sirius,coolbet,1.8,1.68,0.5755,3.59,3,11.22,lost,,,-11.22
+172,2026-06-27T19:37:00+00:00,2026-06-27T18:00:00Z,soccer_finland_veikkausliiga,AC Oulu vs FC Lahti,AC Oulu,FC Lahti,FC Lahti,fanduel,1.42,1.34,0.7263,3.14,17,18.69,lost,,,-18.69
+173,2026-06-28T08:26:07+00:00,2026-07-04T14:00:00Z,soccer_finland_veikkausliiga,SJK Seinäjoki vs TPS Turku,SJK Seinäjoki,TPS Turku,SJK Seinäjoki,casumo,1.8,1.62,0.5997,7.95,10,19.99,won,,,15.99
+174,2026-06-28T08:26:07+00:00,2026-07-03T19:00:00Z,soccer_league_of_ireland,Shelbourne Dublin vs Dundalk,Shelbourne Dublin,Dundalk,Shelbourne Dublin,coolbet,2.25,2.1,0.4572,2.86,4,5.73,won,1.97,14.21,7.16
+175,2026-06-28T08:26:05+00:00,2026-07-01T20:00:00Z,soccer_fifa_world_cup,Belgium vs Senegal,Belgium,Senegal,Belgium,matchbook,2.26,2.14,0.4541,2.63,4,5.21,won,1.98,14.14,6.56
+176,2026-06-28T08:26:07+00:00,2026-07-04T15:00:00Z,soccer_finland_veikkausliiga,VPS Vaasa vs IFK Mariehamn,VPS Vaasa,IFK Mariehamn,VPS Vaasa,grosvenor,1.36,1.3,0.7534,2.47,10,7.0,won,,,2.52
+177,2026-06-28T08:26:05+00:00,2026-07-01T16:00:00Z,soccer_fifa_world_cup,England vs DR Congo,England,DR Congo,England,gtbets,1.32,1.27,0.7748,2.27,9,7.0,won,1.3,1.54,2.24
+178,2026-06-28T16:27:16+00:00,2026-07-04T01:30:00Z,soccer_fifa_world_cup,Colombia vs Ghana,Colombia,Ghana,Colombia,betsson,1.65,1.56,0.6274,3.52,11,13.52,won,1.47,12.24,8.79
+179,2026-06-28T16:27:16+00:00,2026-07-03T03:00:00Z,soccer_fifa_world_cup,Switzerland vs Algeria,Switzerland,Algeria,Draw,unibet_nl,3.7,3.41,0.2793,3.33,10,3.08,lost,,,-3.08
+180,2026-06-28T16:27:16+00:00,2026-07-01T01:00:00Z,soccer_fifa_world_cup,Mexico vs Ecuador,Mexico,Ecuador,Draw,betsson,3.15,2.97,0.325,2.37,4,2.76,lost,,,-2.76
+181,2026-06-28T16:27:16+00:00,2026-06-29T20:30:00Z,soccer_fifa_world_cup,Germany vs Paraguay,Germany,Paraguay,Germany,gtbets,1.38,1.33,0.7403,2.16,5,7.0,lost,1.34,2.99,-7.0
+182,2026-06-28T17:52:39+00:00,2026-06-28T19:00:00Z,soccer_fifa_world_cup,South Africa vs Canada,South Africa,Canada,Canada,betfair_ex_uk,1.86,1.79,0.5511,2.5,7,7.26,won,1.87,-0.53,6.24
+183,2026-06-28T17:52:39+00:00,2026-07-02T23:00:00Z,soccer_fifa_world_cup,Portugal vs Croatia,Portugal,Croatia,Portugal,betsson,1.88,1.79,0.5447,2.41,9,6.85,won,1.72,9.3,6.03
+184,2026-06-28T17:52:39+00:00,2026-07-03T18:00:00Z,soccer_fifa_world_cup,Australia vs Egypt,Australia,Egypt,Draw,onexbet,3.06,2.9,0.3338,2.15,11,2.6,won,2.92,4.79,5.36
+185,2026-06-28T22:48:01+00:00,2026-06-28T21:34:00Z,soccer_brazil_serie_b,Nautico PE vs Goiás,Nautico PE,Goiás,Draw,matchbook,3.4,2.98,0.3124,6.21,5,6.69,lost,,,-6.69
+186,2026-06-29T09:28:15+00:00,2026-06-30T01:00:00Z,soccer_fifa_world_cup,Netherlands vs Morocco,Netherlands,Morocco,Morocco,smarkets,4.0,3.55,0.2744,9.77,6,8.26,lost,3.42,16.96,-8.26
+187,2026-06-29T09:28:15+00:00,2026-07-01T20:00:00Z,soccer_fifa_world_cup,Belgium vs Senegal,Belgium,Senegal,Senegal,smarkets,3.75,3.51,0.2736,2.6,4,2.4,lost,4.34,-13.59,-2.4
+188,2026-06-29T18:41:05+00:00,2026-06-29T17:00:00Z,soccer_fifa_world_cup,Brazil vs Japan,Brazil,Japan,Brazil,smarkets,3.6,2.98,0.3172,14.21,31,13.85,won,,,36.01
+189,2026-06-29T18:41:06+00:00,2026-07-04T13:00:00Z,soccer_sweden_allsvenskan,Degerfors IF vs Malmo FF,Degerfors IF,Malmo FF,Draw,unibet_se,3.65,3.29,0.2843,3.78,4,3.62,lost,,,-3.62
+190,2026-06-29T18:41:05+00:00,2026-07-02T23:00:00Z,soccer_fifa_world_cup,Portugal vs Croatia,Portugal,Croatia,Croatia,smarkets,5.3,4.88,0.1934,2.5,5,1.48,lost,5.9,-10.17,-1.48
+191,2026-06-29T18:41:06+00:00,2026-07-02T23:00:00Z,soccer_brazil_serie_b,Cuiabá vs América Mineiro,Cuiabá,América Mineiro,Cuiabá,unibet_nl,1.94,1.83,0.5276,2.36,4,6.35,won,1.86,4.3,5.97
+192,2026-06-30T17:06:59+00:00,2026-07-04T13:00:00Z,soccer_sweden_allsvenskan,Halmstads BK vs Västerås SK,Halmstads BK,Västerås SK,Västerås SK,unibet_se,2.75,2.45,0.3882,6.76,5,10.05,won,,,17.59
+193,2026-06-30T17:06:59+00:00,2026-07-04T12:00:00Z,soccer_finland_veikkausliiga,FC Lahti vs IF Gnistan,FC Lahti,IF Gnistan,Draw,betfair_ex_eu,3.55,3.17,0.2988,6.07,22,6.19,lost,,,-6.19
+194,2026-06-30T17:06:57+00:00,2026-06-30T17:00:00Z,soccer_fifa_world_cup,Ivory Coast vs Norway,Ivory Coast,Norway,Norway,matchbook,2.3,2.12,0.4562,4.93,11,9.87,won,,,12.83
+195,2026-06-30T17:06:57+00:00,2026-07-03T03:00:00Z,soccer_fifa_world_cup,Switzerland vs Algeria,Switzerland,Algeria,Algeria,unibet_nl,4.4,4.02,0.2377,4.6,7,3.52,lost,,,-3.52
+196,2026-06-30T17:06:57+00:00,2026-07-04T17:00:00Z,soccer_fifa_world_cup,Canada vs Morocco,Canada,Morocco,Canada,betfair_ex_eu,5.5,5.04,0.1864,2.5,5,1.45,lost,,,-1.45
+197,2026-07-01T14:59:59+00:00,2026-07-04T21:00:00Z,soccer_fifa_world_cup,Paraguay vs France,Paraguay,France,France,onexbet,1.23,1.19,0.8302,2.12,2,7.0,won,,,1.61
+198,2026-07-02T09:44:45+00:00,2026-07-05T20:00:00Z,soccer_fifa_world_cup,Brazil vs Norway,Brazil,Norway,Norway,smarkets,4.4,4.08,0.2334,2.7,7,2.03,won,,,6.9
+199,2026-07-02T09:44:45+00:00,2026-07-06T00:00:00Z,soccer_fifa_world_cup,Mexico vs England,Mexico,England,England,onexbet,2.67,2.54,0.3824,2.09,2,3.21,won,,,5.36
+200,2026-07-02T22:45:38+00:00,2026-07-06T22:00:00Z,soccer_brazil_serie_b,Botafogo vs Avai,Botafogo,Avai,Botafogo,casumo,1.95,1.81,0.5325,3.83,9,10.46,won,1.73,12.72,9.94
+201,2026-07-02T22:45:38+00:00,2026-07-03T00:00:00Z,soccer_brazil_serie_b,Fortaleza vs Ponte Preta,Fortaleza,Ponte Preta,Fortaleza,casumo,1.32,1.27,0.7744,2.22,8,7.0,won,1.27,3.94,2.24
+202,2026-07-03T17:03:12+00:00,2026-07-05T12:00:00Z,soccer_sweden_allsvenskan,IFK Goteborg vs AIK,IFK Goteborg,AIK,AIK,leovegas_se,3.55,2.99,0.3146,11.69,13,11.89,won,,,30.32
+203,2026-07-03T17:03:12+00:00,2026-07-03T17:00:00Z,soccer_sweden_allsvenskan,IK Sirius vs Mjällby AIF,IK Sirius,Mjällby AIF,Mjällby AIF,matchbook,5.2,4.66,0.1996,3.79,2,2.34,lost,,,-2.34
+204,2026-07-03T17:03:11+00:00,2026-07-07T00:00:00Z,soccer_fifa_world_cup,USA vs Belgium,USA,Belgium,USA,smarkets,2.84,2.69,0.3609,2.49,4,3.51,lost,2.61,8.81,-3.51
+205,2026-07-03T17:03:12+00:00,2026-07-12T15:00:00Z,soccer_norway_eliteserien,Rosenborg vs Kristiansund BK,Rosenborg,Kristiansund BK,Rosenborg,coolbet,1.7,1.62,0.6005,2.09,3,7.73,won,,,5.41
+206,2026-07-04T06:00:04+00:00,2026-07-04T14:00:00Z,soccer_finland_veikkausliiga,SJK Seinäjoki vs TPS Turku,SJK Seinäjoki,TPS Turku,TPS Turku,fanduel,5.2,4.69,0.2019,5.0,2,3.12,lost,,,-3.12
+207,2026-07-04T06:00:03+00:00,2026-07-17T23:00:00Z,soccer_brazil_campeonato,Fluminense vs Bragantino-SP,Fluminense,Bragantino-SP,Draw,betfair_ex_eu,3.65,3.29,0.2868,4.69,4,4.64,open,,,
+208,2026-07-04T06:00:02+00:00,2026-07-07T16:00:00Z,soccer_fifa_world_cup,Argentina vs Egypt,Argentina,Egypt,Argentina,gtbets,1.41,1.35,0.73,2.92,11,18.67,won,,,7.65
+209,2026-07-04T06:00:03+00:00,2026-07-12T12:30:00Z,soccer_norway_eliteserien,KFUM vs Bodø/Glimt,KFUM,Bodø/Glimt,Bodø/Glimt,nordicbet,1.46,1.39,0.7033,2.69,3,15.28,won,,,7.03
+210,2026-07-04T06:00:04+00:00,2026-07-10T19:00:00Z,soccer_league_of_ireland,Waterford FC vs St Patricks Athletic,Waterford FC,St Patricks Athletic,St Patricks Athletic,casumo,1.61,1.53,0.6339,2.06,6,8.83,lost,,,-8.83
+211,2026-07-06T20:21:01+00:00,2026-07-06T19:00:00Z,soccer_fifa_world_cup,Portugal vs Spain,Portugal,Spain,Portugal,grosvenor,4.8,3.96,0.236,13.27,32,9.13,lost,,,-9.13
+212,2026-07-06T20:21:02+00:00,2026-07-12T21:00:00Z,soccer_brazil_serie_b,Atletico Goianiense vs Fortaleza,Atletico Goianiense,Fortaleza,Draw,unibet_se,3.2,2.82,0.336,7.53,19,8.96,lost,,,-8.96
+213,2026-07-06T20:21:03+00:00,2026-07-12T14:30:00Z,soccer_sweden_allsvenskan,GAIS vs IF Elfsborg,GAIS,IF Elfsborg,GAIS,gtbets,2.1,1.91,0.5038,5.8,5,13.8,won,,,15.18
+214,2026-07-06T20:21:01+00:00,2026-07-16T22:30:00Z,soccer_brazil_campeonato,Botafogo vs Santos,Botafogo,Santos,Botafogo,betfair_ex_uk,2.08,1.94,0.4989,3.77,2,9.14,open,,,
+215,2026-07-06T20:21:03+00:00,2026-07-12T12:00:00Z,soccer_sweden_allsvenskan,Malmo FF vs IFK Goteborg,Malmo FF,IFK Goteborg,IFK Goteborg,betfair_ex_eu,3.85,3.46,0.2692,3.64,3,3.35,lost,,,-3.35
+216,2026-07-06T20:21:04+00:00,2026-07-11T16:00:00Z,soccer_league_of_ireland,Galway United vs Sligo Rovers,Galway United,Sligo Rovers,Galway United,grosvenor,1.77,1.66,0.5831,3.2,8,10.88,won,,,8.38
+217,2026-07-06T20:21:03+00:00,2026-07-11T15:30:00Z,soccer_sweden_allsvenskan,Örgryte IS vs BK Hacken,Örgryte IS,BK Hacken,Örgryte IS,fanduel,5.7,4.97,0.1801,2.66,2,1.48,won,,,6.96
+218,2026-07-06T20:21:01+00:00,2026-07-06T19:00:00Z,soccer_fifa_world_cup,Portugal vs Spain,Portugal,Spain,Spain,betfair_ex_uk,2.58,2.42,0.3956,2.07,2,3.43,won,,,5.42
+219,2026-07-07T09:17:54+00:00,2026-07-11T12:00:00Z,soccer_norway_eliteserien,Fredrikstad FK vs Lillestrom,Fredrikstad FK,Lillestrom,Lillestrom,lowvig,2.94,2.46,0.3905,14.8,2,20.83,won,,,40.41
+220,2026-07-07T09:17:54+00:00,2026-07-11T12:00:00Z,soccer_norway_eliteserien,Fredrikstad FK vs Lillestrom,Fredrikstad FK,Lillestrom,Fredrikstad FK,lowvig,3.15,2.86,0.3336,5.09,2,6.46,lost,,,-6.46
+221,2026-07-07T09:17:54+00:00,2026-07-12T19:00:00Z,soccer_brazil_serie_b,Avai vs Nautico PE,Avai,Nautico PE,Draw,unibet_nl,3.2,2.9,0.3268,4.58,4,5.68,lost,,,-5.68
+222,2026-07-07T09:17:55+00:00,2026-07-10T16:00:00Z,soccer_finland_veikkausliiga,VPS Vaasa vs SJK Seinäjoki,VPS Vaasa,SJK Seinäjoki,VPS Vaasa,casumo,2.14,1.98,0.4882,4.48,16,10.72,won,,,12.22
+223,2026-07-07T22:05:14+00:00,2026-07-11T13:00:00Z,soccer_sweden_allsvenskan,Mjällby AIF vs AIK,Mjällby AIF,AIK,AIK,unibet_se,4.1,3.53,0.2636,8.09,4,7.19,won,,,22.29
+224,2026-07-07T22:05:14+00:00,2026-07-12T14:30:00Z,soccer_sweden_allsvenskan,IF Brommapojkarna vs IK Sirius,IF Brommapojkarna,IK Sirius,IF Brommapojkarna,grosvenor,5.4,4.53,0.1996,7.78,6,4.87,lost,,,-4.87
+225,2026-07-07T22:05:13+00:00,2026-07-13T22:00:00Z,soccer_brazil_serie_b,América Mineiro vs Londrina,América Mineiro,Londrina,Londrina,betfair_ex_uk,4.0,3.58,0.2601,4.04,3,3.72,open,,,
+226,2026-07-07T22:05:14+00:00,2026-07-11T14:00:00Z,soccer_finland_veikkausliiga,IF Gnistan vs IFK Mariehamn,IF Gnistan,IFK Mariehamn,IF Gnistan,casumo,1.38,1.31,0.7464,3.0,15,7.0,won,,,2.66
+227,2026-07-07T22:05:12+00:00,2026-07-11T21:00:00Z,soccer_fifa_world_cup,Norway vs England,Norway,England,England,unibet_se,1.96,1.87,0.5232,2.54,14,7.28,won,,,6.99
+228,2026-07-07T22:05:14+00:00,2026-07-13T17:00:00Z,soccer_sweden_allsvenskan,Djurgardens IF vs Halmstads BK,Djurgardens IF,Halmstads BK,Djurgardens IF,unibet_se,1.3,1.24,0.7878,2.42,7,7.0,open,,,
+229,2026-07-10T11:35:11+00:00,2026-07-12T12:00:00Z,soccer_sweden_allsvenskan,Västerås SK vs Degerfors IF,Västerås SK,Degerfors IF,Degerfors IF,unibet_se,4.1,3.57,0.26,6.61,4,5.91,lost,,,-5.91
+230,2026-07-10T11:35:09+00:00,2026-07-17T23:00:00Z,soccer_brazil_campeonato,Fluminense vs Bragantino-SP,Fluminense,Bragantino-SP,Fluminense,betsson,2.08,1.96,0.4932,2.58,2,6.64,open,,,
+231,2026-07-10T11:35:10+00:00,2026-07-12T14:00:00Z,soccer_brazil_serie_b,Operario PR vs Grêmio Novorizontino,Operario PR,Grêmio Novorizontino,Draw,betfair_sb_uk,3.2,2.95,0.3204,2.52,5,3.18,lost,,,-3.18
+232,2026-07-13T13:11:21+00:00,2026-07-17T17:00:00Z,soccer_sweden_allsvenskan,Mjällby AIF vs Västerås SK,Mjällby AIF,Västerås SK,Västerås SK,grosvenor,4.35,3.73,0.2475,7.68,12,6.36,open,,,
+233,2026-07-13T13:11:21+00:00,2026-07-18T00:00:00Z,soccer_brazil_serie_b,Fortaleza vs Grêmio Novorizontino,Fortaleza,Grêmio Novorizontino,Draw,casumo,3.3,2.9,0.3252,7.31,17,8.82,open,,,
+234,2026-07-13T13:11:20+00:00,2026-07-16T22:30:00Z,soccer_brazil_campeonato,Botafogo vs Santos,Botafogo,Santos,Santos,betfair_ex_uk,4.0,3.53,0.2671,6.85,8,6.34,open,,,
+235,2026-07-13T13:11:22+00:00,2026-07-18T14:00:00Z,soccer_finland_veikkausliiga,SJK Seinäjoki vs KuPS Kuopio,SJK Seinäjoki,KuPS Kuopio,SJK Seinäjoki,tipico_de,3.5,3.13,0.3019,5.68,3,6.3,open,,,
+236,2026-07-13T13:11:21+00:00,2026-07-18T12:00:00Z,soccer_norway_eliteserien,HamKam vs Tromso,HamKam,Tromso,Draw,betsson,3.45,3.11,0.305,5.23,7,5.92,open,,,
+237,2026-07-13T13:11:21+00:00,2026-07-16T23:00:00Z,soccer_brazil_serie_b,Clube de Regatas Brasil vs Nautico PE,Clube de Regatas Brasil,Nautico PE,Draw,unibet_se,3.55,3.2,0.2926,3.86,5,4.2,open,,,
+238,2026-07-13T13:11:21+00:00,2026-07-13T23:30:00Z,soccer_brazil_serie_b,Ceará vs Athletic Club (MG),Ceará,Athletic Club (MG),Ceará,smarkets,1.96,1.87,0.521,2.12,5,6.13,open,,,
