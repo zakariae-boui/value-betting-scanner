@@ -108,15 +108,14 @@ The full ledger behind the results above is included as [`paper_bets.csv`](paper
 - The sample is 5 weeks and World Cup heavy. The CLV signal is strong, but a longer, more diverse sample (regular league seasons) is the next test.
 - Realistic ROI expectation for this strategy is 2 to 6% long term, not the +10.8% of this early sample.
 
-## The two-project story
+## The three-project story
 
-| | [football-prediction-ml](https://github.com/zakariae-boui/football-prediction-ml) | value-betting-scanner (this repo) |
-|---|---|---|
-| Approach | predict outcomes with ML | trust the sharp price, scan for mispricing |
-| Signal source | 62 features from public data | disagreement between bookmakers |
-| ROI | -2.9% (best model) | +10.8% |
-| Avg CLV | about 0 or negative | **+4.00%** |
-| Conclusion | markets are efficient against public data | the edge is in prices, not predictions |
+| | [football-prediction-ml](https://github.com/zakariae-boui/football-prediction-ml) | value-betting-scanner (this repo) | [fpl-luck-or-skill](https://github.com/zakariae-boui/fpl-luck-or-skill) |
+|---|---|---|---|
+| Question | can ML out-predict the market? | where is the edge then? | no market at all: does skill exist? |
+| Signal source | 62 features from public data | disagreement between bookmakers | 24,041 managers' decisions |
+| Result | -2.9% ROI, CLV about 0 | +10.8% ROI, **+4.00% CLV** | 85% skill, backtest rank 2,324 of 13.1M |
+| Conclusion | markets price public data instantly | the edge is in prices, not predictions | without a market, skill persists and is learnable |
 
 ## Author
 
